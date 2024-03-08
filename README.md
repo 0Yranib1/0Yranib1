@@ -1,8 +1,9 @@
 # William_Yranib Profile
 i'm trying to figure out how to survive in this fxxked up world
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **0Yranib1/0Yranib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
